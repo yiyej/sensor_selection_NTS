@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/yiye/Desktop/velib Toulouse/tasks/cnn_graph/lib/../checkpoints/paris_H5_select_run2/model-1800"
+all_model_checkpoint_paths: "/Users/yiye/Desktop/velib Toulouse/tasks/cnn_graph/lib/../checkpoints/paris_H5_select_run2/model-1800"
