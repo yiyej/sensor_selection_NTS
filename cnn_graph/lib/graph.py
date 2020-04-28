@@ -1,6 +1,6 @@
 # The codes are from the software:
 # https://github.com/mdeff/cnn_graph, with the permission granted, see the LICENSE file.
-# We modified the function "adjacency" with self-tuning features.
+# We modified the function "adjacency" with the self-tuning features.
 
 import sklearn.metrics
 import sklearn.neighbors
