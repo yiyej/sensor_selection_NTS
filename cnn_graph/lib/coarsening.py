@@ -1,3 +1,6 @@
+# The codes are from the software:
+# https://github.com/mdeff/cnn_graph, with the permission granted, see the LICENSE file.
+
 import numpy as np
 import scipy.sparse
 
