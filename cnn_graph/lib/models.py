@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 15 15:12:35 2019
-
-@author: yiye
-"""
-
 # The codes are the modified version of the original software:
 # https://github.com/mdeff/cnn_graph, with the permission granted, see the LICENSE file.
 
