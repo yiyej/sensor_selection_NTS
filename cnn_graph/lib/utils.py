@@ -1,3 +1,6 @@
+# The codes are from the software:
+# https://github.com/mdeff/cnn_graph, with the permission granted, see the LICENSE file.
+
 import gensim
 import sklearn, sklearn.datasets
 import sklearn.naive_bayes, sklearn.linear_model, sklearn.svm, sklearn.neighbors, sklearn.ensemble
